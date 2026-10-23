@@ -7,16 +7,16 @@ Hi, I'm Amartya
 Technologies & Tools
 
 - Language: Java
-- Version Control: Git & GitHub (learning and exploring)
+- Version Control: Git & GitHub (begineer)
 
 Motive
 
-- Continuously explore new technologies.
+- Learning about the integrating of softwares with hardware.
+- Understanding new technologies.
 - Strengthen my programming fundamentals.
-- Improve my problem-solving skills.
-- Build practical projects and gain hands-on experience.
+
 
 
 ---
 
-“Finding the key for git.”
+“Finding the key to git.”
